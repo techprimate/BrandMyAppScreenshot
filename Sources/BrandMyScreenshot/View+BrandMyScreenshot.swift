@@ -7,7 +7,7 @@ extension View {
     /// - Parameters:
     ///   - title: The title to display in the screenshot.
     ///   - textColor: The text color of the screenshot.
-    public func BrandMyAppScreenshot(
+    public func brandMyAppScreenshot(
         title: String,
         textColor: Color = .black
     ) -> some View {

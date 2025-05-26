@@ -13,7 +13,7 @@ struct ContentView: View {
         .frame(maxWidth: .infinity, maxHeight: .infinity)
         .background(Color.orange.brightness(0.1)
             .ignoresSafeArea())
-        .BrandMyAppScreenshot(
+        .brandMyAppScreenshot(
             title: "techprimate",
         )
     }
