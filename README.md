@@ -2,6 +2,11 @@
 
 A Swift package for iOS that helps you brand your app screenshots with custom overlays and watermarks.
 
+<div style="display: flex; gap: 20px; justify-content: center;">
+    <img src="./Resources/simulator.png" alt="Simulator" style="max-width: 250px; border-radius: 10px;">
+    <img src="./Resources/screenshot.png" alt="Screenshot" style="max-width: 250px; border-radius: 10px;">
+</div>
+
 ## Requirements
 
 - iOS 18.0+
