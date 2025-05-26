@@ -36,7 +36,17 @@ Or add it directly in Xcode:
 ```swift
 import BrandMyScreenshot
 
-// Your implementation here
+struct YourContentView: View {
+    var body: some View {
+        VStack {
+            ...
+        }
+        .frame(maxWidth: .infinity, maxHeight: .infinity)
+        .brandMyAppScreenshot(
+            title: "techprimate",
+        )
+    }
+}
 ```
 
 ## Features
