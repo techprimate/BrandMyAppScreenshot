@@ -1,6 +1,9 @@
 # Brand My Screenshot
 
-A Swift package for iOS that helps you brand your app screenshots with custom overlays and watermarks.
+A Swift package for iOS that helps you brand your app screenshots with custom overlays and watermarks hidden underneath the dynamic island.
+
+> [!IMPORTANT]
+> This package has been drafted as a quick prototype and proof-of-concept. It is not inteded to be production-ready nor does it cover cases like devices without a dynamic island or notch.
 
 <div align="center">
   <img src="https://github.com/techprimate/BrandMyAppScreenshot/blob/main/Resources/simulator.png?raw=true" width="250px">
